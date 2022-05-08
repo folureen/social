@@ -8,4 +8,4 @@ export enum NETWORK_STATE {
     PENDING = 'PENDING',
     RESOLVED = 'RESOLVED',
     REJECTED = 'REJECTED'
-} as const;
+}
